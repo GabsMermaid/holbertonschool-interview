@@ -3,7 +3,7 @@
 
 /**
  * grid_addition - add 2 grids
- * 
+ *
  * @grid1: first matrix
  * @grid2: second matrix
  */
@@ -23,7 +23,7 @@ void grid_addition(int grid1[3][3], int grid2[3][3])
 
 /**
  * grid_print - print a grid
- * 
+ *
  * @grid: matrix
  */
 
@@ -47,7 +47,7 @@ void grid_print(int grid[3][3])
 
 /**
  * grid_is_ok - check if a grid is ok
- * 
+ *
  * @grid: matrix
  * Return: 1 if is ok or 0 if not
  */
@@ -70,7 +70,7 @@ int grid_is_ok(int grid[3][3])
 
 /**
  * grid_change - change a grid value
- * 
+ *
  * @grid1: matrix
  */
 
@@ -109,7 +109,7 @@ void grid_change(int grid1[3][3])
 
 /**
  * sandpiles_sum - sum 2 sandpiles
- * 
+ *
  * @grid1: first matrix
  * @grid2: second matrix
  */
