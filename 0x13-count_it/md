@@ -1,0 +1,34 @@
+[?1049h[22;0;0t[22;0;0t[?1h=[H[2J]11;?[?2004h[?25h[?25l(B[m[H[2J[?1002h[?1006h[23BError detected while processing /home/vagrant/.config/nvim/init.vim:[K[?1002l[?1006l[15;24r[15;1H[9M[r[14;1H(B[0;1;7m[38;5;244m[48;5;234m                                                                                
+
+(B[m[38;5;244m[48;5;234mline   63:[K
+E117: Unknown function: pathogen#infect[K
+(B[m[93m[48;5;234mline  126:(B[m[38;5;244m[48;5;234m[K
+(B[m[97m[41mE117: Unknown function: plug#begin(B[m[38;5;244m[48;5;234m[K
+(B[m[93m[48;5;234mline  127:(B[m[38;5;244m[48;5;234m[K
+(B[m[97m[41mE492: Not an editor command: Plug 'neoclide/coc.nvim', {'branch': 'release'}(B[m[38;5;244m[48;5;234m[K
+(B[m[93m[48;5;234mline  128:(B[m[38;5;244m[48;5;234m[K
+(B[m[97m[41mE117: Unknown function: plug#end(B[m[38;5;244m[48;5;234m[K
+(B[m[38;5;121m[48;5;234mPress ENTER or type command to continue(B[m[38;5;244m[48;5;234m[K]112[2 q]112[2 q[H[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K(B[0;1;7m[38;5;244m[48;5;234m
+                                                                                
+(B[m[38;5;244m[48;5;234mError detected while processing /home/vagrant/.config/nvim/init.vim:[K
+line   63:[K
+E117: Unknown function: pathogen#infect[K
+(B[m[93m[48;5;234mline  126:(B[m[38;5;244m[48;5;234m[K
+(B[m[97m[41mE117: Unknown function: plug#begin(B[m[38;5;244m[48;5;234m[K
+(B[m[93m[48;5;234mline  127:(B[m[38;5;244m[48;5;234m[K
+(B[m[97m[41mE492: Not an editor command: Plug 'neoclide/coc.nvim', {'branch': 'release'}(B[m[38;5;244m[48;5;234m[K
+(B[m[93m[48;5;234mline  128:(B[m[38;5;244m[48;5;234m[K
+(B[m[97m[41mE117: Unknown function: plug#end(B[m[38;5;244m[48;5;234m[K
+(B[m[38;5;121m[48;5;234mPress ENTER or type command to continue(B[m[38;5;244m[48;5;234m[K[?25h
